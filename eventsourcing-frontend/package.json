@@ -23,7 +23,7 @@
     "angular2-websocket": "^0.9.8",
     "core-js": "^2.5.4",
     "flux-standard-action": "^2.0.4",
-    "npm": "^6.9.0",
+    "npm": "^9.6.5",
     "redux": "^4.0.1",
     "redux-devtools-extension": "^2.13.8",
     "redux-observable": "^1.1.0",
